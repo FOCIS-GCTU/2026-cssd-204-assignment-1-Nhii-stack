@@ -11,23 +11,19 @@
 # and I have not provided this code to any other student.
 
 def main():
-    # Print my initials in large stylized letters.
-
+    # Print my initials in small and large stylized letters.
     print()
     print("...PQN")
     print()
-
-    print("...PPPPPPPPPPPP...QQQQQQQQQQQQ...NNN.......NN...")
-    print("...PPP......PPP...QQQ......QQQ...NNN.......NN...")
-    print("...PPP......PPP...QQQ......QQQ...NNNN......NN...")
-    print("...PPP......PPP...QQQ......QQQ...NN.NN.....NN...")
-    print("...PPPPPPPPPPPP...QQQ......QQQ...NN..NN....NN...")
-    print("...PPP............QQQ......QQQ...NN...NN...NN...")
-    print("...PPP............QQQ......QQQ...NN....NN..NN...")
-    print("...PPP............QQQ....QQ.QQ...NN....NNN.NN...")
-    print("...PPP.........  ...QQQQQQQQQQ  ...NN......NNNN...")
-    print("...PPP.........  ..........QQ.  ...NN......NNNN...")
+    print("...PPPPPPPPPPPP........QQQQQQQQQQQQ.........NNN........NN...")
+    print("...PP.........PP......QQ..........QQ........NNN........NN...")
+    print("...PP..........PP...QQ.............QQ.......NN.N.......NN...")
+    print("...PP.........PP...QQ...............QQ......NN..NN.....NN...")
+    print("...PPPPPPPPPPPP....QQ...............QQ......NN...NN....NN...")
+    print("...PP..............QQ...............QQ......NN....NN...NN...")
+    print("...PP..............QQ........QQ....QQ.......NN.....NN..NN...")
+    print("...PP...............QQ.........QQ.QQ........NN......NN.NN...")
+    print("...PP...........**....QQQQQQQQQQQQ.....**...NN........NNN...")
+    print("...PP...........**................QQ...**...NN........NNN...")
     print()
-
-
-    main()
+main()
